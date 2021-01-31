@@ -1,0 +1,38 @@
+input {
+    margin: 10px;
+}
+
+#without_comma {
+    border: 1px dotted darkblue;
+    padding: 10px;
+    background-color: red;
+    border-radius: 20px;
+    width: 50%;
+}
+
+#answer_div_comma {
+    border: 1px dotted black;
+    padding: 10px;
+    background-color: green;
+    border-radius: 20px;
+    width: 50%;
+}
+
+#sort_btn {
+    display: none;
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#submit_btn {
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#new_update_button {
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
